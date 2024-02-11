@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mavis
-- 👀 I create Java and C++ programs and websites at school and for my dad's vending business, DEAJ.
+- 👀 I am a full-time Full-Stack Developer.
 - 🌱 Checkout my Leetcode at https://leetcode.com/maj13/, where I practice the programming languages I already know.
-- 💞️ I'm currently a Full-time undergrad student. Open to other gigs or side-hustles!
+- 💞️ I'm currently a Full-time Software Developer at Paycom. Open to other gigs or side-hustles!
 - 📫 Reach me on my LinkedIn at https://www.linkedin.com/in/mavis-javier-876a29175/ 
 
 <!---
