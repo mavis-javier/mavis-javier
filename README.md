@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mavis
-- 👀 I am a full-time Full-Stack Developer.
+- 👀 I am a full-time Software Engineer and Developer.
 - 🌱 Checkout my Leetcode at https://leetcode.com/maj13/, where I practice the programming languages I already know.
 - 💞️ Ex-Software Developer at Paycom. Open for full-time positions and other gigs or side-hustles!
 - 📫 Reach me on my LinkedIn at https://www.linkedin.com/in/mavis-javier-876a29175/ 
